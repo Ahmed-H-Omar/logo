@@ -1,0 +1,8 @@
+path: /Users/ahmed/Downloads/osld/logo-images  # dataset root
+train: osldtrain.txt # train images (relative to 'path') images
+val: osldval.txt # val images (relative to 'path') images
+test: osldtest.txt #  images
+ # Classes\cf2
+nc: 1   # number of classes
+names: ['logo']
+#
